@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en Image should de mostrar la imagen 1`] = `
+<img
+  alt="Product"
+  className="productImg undefined"
+  src="./coffe-mug.png"
+/>
+`;
+
+exports[`Pruebas en Image should de mostrar la imagen del padre 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product"
+    className="productImg undefined"
+    src="./coffe-mug.png"
+  />
+</div>
+`;
